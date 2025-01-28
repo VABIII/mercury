@@ -1,0 +1,372 @@
+{
+  "events_list": [
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Trap Karaoke — The Signal",
+      "event_date": "Saturday, November 9, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/trapkaraoke-110924",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Houndmouth w/ Taylor McCall — The Signal",
+      "event_date": "Friday, November 15, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/houndmouth",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Morgan Wade: The Obsessed Tour — The Signal",
+      "event_date": "Saturday, November 16, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/morganwade",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Zakk Sabbath: King of the Monstours — The Signal",
+      "event_date": "Tuesday, December 17, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/zakk-sabbath",
+      "event_time": "7:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "WHITECHAPEL \"TENNESSEE TAKEOVER 2024\" — The Signal",
+      "event_date": "Thursday, December 19, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/whitechapel",
+      "event_time": "7:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Juvenile & The 400 Degreez Band w/ Mannie Fresh and Hot Boy Turk — The Signal",
+      "event_date": "Friday, December 20, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/juvenile",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "NEON NEW YEAR - ft. Neon Moon: The Ultimate 90's Country Tribute Band and Southern Drawl — The Signal",
+      "event_date": "Tuesday, December 31, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/neonmoon-nye",
+      "event_time": " "
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Halestorm’s Lzzy and Joe: The Living Room Sessions — The Signal",
+      "event_date": "Thursday, January 16, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/halestorm",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Tom Green - 2025 Home to the Country Comedy Tour — The Signal",
+      "event_date": "Friday, January 24, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/tom-green",
+      "event_time": "7:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Atmosphere – Imagine The Fun Tour feat. special guests Sage Francis & Mr. Dibbs — The Signal",
+      "event_date": "Saturday, January 25, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/atmosphere",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Niko Moon: These Are the Nights Tour — The Signal",
+      "event_date": "Saturday, February 1, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/nikomoon",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "The Emo Night Tour - 18+ (Copy) — The Signal",
+      "event_date": "Friday, February 7, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/the-emo-night-tour020725",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Father John Misty — The Signal",
+      "event_date": "Wednesday, February 12, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/fjm",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "ZACH TOP: COLD BEER & COUNTRY MUSIC TOUR — The Signal",
+      "event_date": "Wednesday, February 26, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/zach-top-36trj",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "ZACH TOP: COLD BEER & COUNTRY MUSIC TOUR — The Signal",
+      "event_date": "Thursday, February 27, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/zach-top",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Umphrey’s McGee – Cruising Altitude 2025 Tour — The Signal",
+      "event_date": "Friday, February 28, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/umphreysmcgee",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "THEY MIGHT BE GIANTS - THE BIG SHOW TOUR — The Signal",
+      "event_date": "Friday, March 21, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/tmbg",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Trae Crowder — The Signal",
+      "event_date": "Saturday, April 12, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/trae-crowder",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "STRFKR — The Signal",
+      "event_date": "Sunday, April 13, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/strfkr24",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Moon Taxi — The Signal",
+      "event_date": "Saturday, May 31, 2025",
+      "event_link": "https://www.thesignaltn.com/tickets/moontaxi",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Blues Traveler – 30 Years Of Four Tour — The Signal",
+      "event_date": "Sunday, November 3, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/blues-traveler",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Pigeons Playing Ping Pong w/ Kendall Street Company — The Signal",
+      "event_date": "Saturday, November 2, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/pigeonsplayingpingpong",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Gavin Adcock - Actin’ Up Again Tour — The Signal",
+      "event_date": "Friday, November 1, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/gavin-adcock",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Cold War Kids – 20 Years Tour — The Signal",
+      "event_date": "Monday, October 28, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/cold-war-kids",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Jesse McCartney - All’s Well Tour Part 2 — The Signal",
+      "event_date": "Saturday, October 26, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/jesse-mccartney",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Dylan Gossett - The Back 40 Tour w/ James Tucker — The Signal",
+      "event_date": "Friday, October 25, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/dylan-gossett",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "NATE SMITH: THROUGH THE SMOKE TOUR — The Signal",
+      "event_date": "Thursday, October 24, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/nate-smith",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Asking Alexandria: All My Friends North American Tour 2024 — The Signal",
+      "event_date": "Friday, October 18, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/asking-alexandria",
+      "event_time": "6:30 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "THE TAYLOR PARTY: THE TS DANCE PARTY - 18+ — The Signal",
+      "event_date": "Friday, October 11, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/taylorparty101124",
+      "event_time": "9:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Rumours ATL: A Fleetwood Mac Tribute — The Signal",
+      "event_date": "Saturday, October 5, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/rumoursatl100524",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Gimme Gimme Disco - 18+ — The Signal",
+      "event_date": "Friday, October 4, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/ggd100424",
+      "event_time": "9:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "SEVENDUST SEASONS 21ST ANNIVERSARY TOUR — The Signal",
+      "event_date": "Thursday, September 26, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/sevendust",
+      "event_time": "6:30 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Pink Pony Club - Chappell Roan Night — The Signal",
+      "event_date": "Saturday, September 21, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/pinkponyclub",
+      "event_time": "9:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Silversun Pickups w/ Speedy Ortiz — The Signal",
+      "event_date": "Wednesday, September 18, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/silversunpickups",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "The Emo Night Tour - 18+ — The Signal",
+      "event_date": "Saturday, September 14, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/the-emo-night-tour091424",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Tyler Hubbard w/ Alana Springsteen — The Signal",
+      "event_date": "Thursday, September 12, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/tyler-hubbard",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "The 502s – Great American Road Trip with Special Guest hey, nothing — The Signal",
+      "event_date": "Wednesday, September 11, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/the502s",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Band Of Horses w/ Michigander — The Signal",
+      "event_date": "Sunday, August 25, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/band-of-horses",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "No Scrubs: 90s Dance Party — The Signal",
+      "event_date": "Saturday, August 10, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/no-scrubs",
+      "event_time": "9:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Cinderella's Tom Keifer With Special Guests L.A. Guns — The Signal",
+      "event_date": "Thursday, August 8, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/tom-keifer",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "BEARTOOTH: Summer 2024 TouR — The Signal",
+      "event_date": "Thursday, August 1, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/beartooth",
+      "event_time": "6:30 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Eli Young Band - 10 Years: 10,000 Towns Tour — The Signal",
+      "event_date": "Wednesday, July 31, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/eli-young-band",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Electric Feels: Indie Rock + Indie Dance Party — The Signal",
+      "event_date": "Friday, June 28, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/electric-feels",
+      "event_time": "9:30 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "\"84\" A Tribute to Van Halen & Excitable-A Def Leppard Tribute — The Signal",
+      "event_date": "Friday, June 14, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/84-excitable",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "The Emo Night Tour - 18+ — The Signal",
+      "event_date": "Saturday, June 1, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/the-emo-night-tour060124",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Flatland Cavalry w/ Kaitlin Butts — The Signal",
+      "event_date": "Friday, May 31, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/flatland-cavalry",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Isaiah Rashad: Cilvia Demo 10 Year Anniversary Tour w/ Ray Vaughn and Samara Cyn — The Signal",
+      "event_date": "Saturday, May 25, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/isaiah-rashad",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "THE TAYLOR PARTY: THE TS DANCE PARTY - 18+ — The Signal",
+      "event_date": "Friday, May 17, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/thetaylorparty",
+      "event_time": "9:00 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "August Burns Red w/ Fuming Mouth and Sunmancer — The Signal",
+      "event_date": "Wednesday, May 15, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/augustburnsred",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Signal",
+      "event_artist": "Mammoth WVH – The Mammoth II Tour w/ Intervals — The Signal",
+      "event_date": "Tuesday, May 14, 2024",
+      "event_link": "https://www.thesignaltn.com/tickets/mammoth-wvh",
+      "event_time": "8:00 PM"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

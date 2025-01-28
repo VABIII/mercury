@@ -1,0 +1,347 @@
+{
+  "events_list": [
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "ZZ Top",
+      "event_date": "November 12",
+      "event_link": "https://tivolichattanooga.com/venue-event/ebdec733-09ea-418e-b221-fb6370c27e59",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Craig Ferguson: Pants on Fire",
+      "event_date": "November 13",
+      "event_link": "https://tivolichattanooga.com/venue-event/dbcd090a-49c7-450d-a468-1f2b4a415a65",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Charlie Berens: Good Old Fashioned Tour",
+      "event_date": "November 14",
+      "event_link": "https://tivolichattanooga.com/venue-event/fcda62ed-6f49-469c-aaea-77aed1369546",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Justin Willman: Illusionati Tour",
+      "event_date": "November 15",
+      "event_link": "https://tivolichattanooga.com/venue-event/4abc3c29-33aa-43b2-9494-bfd72f7a0821",
+      "event_time": "7:00 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Preacher Lawson: Best Day Ever",
+      "event_date": "November 16",
+      "event_link": "https://tivolichattanooga.com/venue-event/5cd05466-7616-4468-9b19-c797687957bb",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "David Cross - The End of The Beginning of The End",
+      "event_date": "November 23",
+      "event_link": "https://tivolichattanooga.com/venue-event/04ac317a-23bc-4cab-8dd4-146291e9bb8b",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Gabriel Iglesias",
+      "event_date": "November 29",
+      "event_link": "https://tivolichattanooga.com/venue-event/9e917b98-4ba0-4f0b-9b0c-3d3a19e6d4be",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "The Mountain Goats with Joelton Mayfield",
+      "event_date": "December 1",
+      "event_link": "https://tivolichattanooga.com/venue-event/cbd5695a-13cf-4e19-b0a4-9031470d2021",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Countess Luann: A Very Countess Christmas Show",
+      "event_date": "December 5",
+      "event_link": "https://tivolichattanooga.com/venue-event/519aa2bc-1358-46c4-837d-b51d4b7cfb48",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Herb Alpert & Lani Hall - A Christmas Wish",
+      "event_date": "December 11",
+      "event_link": "https://tivolichattanooga.com/venue-event/b8122bf8-0376-4d54-897b-58fa4d7c1b38",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Dailey & Vincent",
+      "event_date": "December 12",
+      "event_link": "https://tivolichattanooga.com/venue-event/50b74168-cde3-46ff-9a08-288baf563a79",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "CHA Ballet's The Nutcracker",
+      "event_date": "December 13",
+      "event_link": "https://tivolichattanooga.com/venue-event/b0e545a8-2654-4c0d-b456-169ed1ff4706",
+      "event_time": " "
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "The JOHNNYSWIM Christmas Show",
+      "event_date": "December 13",
+      "event_link": "https://tivolichattanooga.com/venue-event/f6225025-0fff-4eed-a6c4-8284245ec806",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Steve-O",
+      "event_date": "December 14",
+      "event_link": "https://tivolichattanooga.com/venue-event/983bd59e-066c-473c-a91c-bdd85852ecc6",
+      "event_time": "7:00 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Avatar - The Last Airbender",
+      "event_date": "December 18",
+      "event_link": "https://tivolichattanooga.com/venue-event/21bccfbb-1b1b-4f15-b826-87968c0ebd4c",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Lindsey Stirling - The Snow Waltz Tour",
+      "event_date": "December 19",
+      "event_link": "https://tivolichattanooga.com/venue-event/833cdcc4-202b-453e-99db-5f5483b984b7",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Chattanooga Symphony presents Home for the Holidays: Saturday",
+      "event_date": "December 21",
+      "event_link": "https://tivolichattanooga.com/venue-event/a9b5eec3-7dc7-4efd-a019-39bf849094c0",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Chattanooga Symphony presents Home for the Holidays: Sunday",
+      "event_date": "December 22",
+      "event_link": "https://tivolichattanooga.com/venue-event/80ccc8b0-58f9-4b3a-a92f-0b4de0e405b5",
+      "event_time": "3:00 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Christmas With C.S. Lewis",
+      "event_date": "December 22",
+      "event_link": "https://tivolichattanooga.com/venue-event/fbdc41d8-25c9-4eda-8388-1e127a7a4edc",
+      "event_time": "3:00 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Nutcracker! Magical Christmas Ballet!",
+      "event_date": "December 23",
+      "event_link": "https://tivolichattanooga.com/venue-event/cf2a7114-b2c9-44ba-aa58-b978fa31fd66",
+      "event_time": " "
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Pam Tillis",
+      "event_date": "January 11",
+      "event_link": "https://tivolichattanooga.com/venue-event/3a83d022-b4a4-4b71-a593-6453cfbc3ab7",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Steve Martin & Martin Short: The Dukes of Funnytown!",
+      "event_date": "January 23",
+      "event_link": "https://tivolichattanooga.com/venue-event/d40758d2-9313-4f16-9902-081ceed098a0",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Pretty Woman: The Musical (Touring)",
+      "event_date": "January 24",
+      "event_link": "https://tivolichattanooga.com/venue-event/23de4d6e-4913-42fa-b948-33d4d5daaa6a",
+      "event_time": " "
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Chattanooga Symphony presents Rachmaninoff Piano Concerto #3",
+      "event_date": "January 30",
+      "event_link": "https://tivolichattanooga.com/venue-event/f0fa27ed-a182-4f7a-a950-55aec5bec006",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Ginger Billy: Backwoods Comedy Tour",
+      "event_date": "January 31",
+      "event_link": "https://tivolichattanooga.com/venue-event/2bf600cf-d207-4cf9-b11e-62c40e2f19d1",
+      "event_time": "7:00 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "The Black Jacket Symphony Presents Led Zeppelin's 'iv'",
+      "event_date": "January 31",
+      "event_link": "https://tivolichattanooga.com/venue-event/a7b7e99b-1ebb-4301-a73c-b609ea55115d",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Chattanooga Symphony presents All-Accessible: The Orchestra Moves",
+      "event_date": "February 6",
+      "event_link": "https://tivolichattanooga.com/venue-event/afaa1810-746a-4cf2-aaff-8a389e250d4d",
+      "event_time": "12:00 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Marty Stuart & His Fabulous Superlatives",
+      "event_date": "February 7",
+      "event_link": "https://tivolichattanooga.com/venue-event/432d8a92-4066-4a4e-b7e2-24537c16e346",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Marty Stuart \"The Country Star\" VIP Package-EVENT TICKET NOT INCLUDED",
+      "event_date": "February 7",
+      "event_link": "https://tivolichattanooga.com/venue-event/8e74afc8-870c-4eec-afcc-f15566fc1087",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Drew & Ellie Holcomb: Memory Bank Tour",
+      "event_date": "February 8",
+      "event_link": "https://tivolichattanooga.com/venue-event/647afcc3-13dc-4870-8a9e-88a3faf46ade",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "The Simon & Garfunkel Story (Touring)",
+      "event_date": "February 12",
+      "event_link": "https://tivolichattanooga.com/venue-event/61a9e310-8a16-475d-a8b4-d7f05697defb",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Chattanooga Symphony presents Big Band",
+      "event_date": "February 14",
+      "event_link": "https://tivolichattanooga.com/venue-event/0efd04b3-23aa-4e62-bd4f-d14014ad2c81",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Marc Broussard - Time is a Thief Tour",
+      "event_date": "February 15",
+      "event_link": "https://tivolichattanooga.com/venue-event/a3f4db85-0e87-4e5c-a64b-c976517d08da",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "MANIA: The ABBA Tribute",
+      "event_date": "February 17",
+      "event_link": "https://tivolichattanooga.com/venue-event/d96ebed0-c770-4b74-8104-36edfea00af6",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Six (Touring)",
+      "event_date": "February 18",
+      "event_link": "https://tivolichattanooga.com/venue-event/ad809b3a-fad5-4c91-b4cc-250c0bb40026",
+      "event_time": " "
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Robert Cray Band",
+      "event_date": "February 26",
+      "event_link": "https://tivolichattanooga.com/venue-event/d63c699a-c445-4e1e-ba6f-36beb075c0d9",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Dr. Neil deGrasse Tyson: Cosmic Collisions",
+      "event_date": "February 27",
+      "event_link": "https://tivolichattanooga.com/venue-event/d0ac5c97-5768-4ccf-8e96-33b89cb36fd7",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Joe Bonamassa",
+      "event_date": "March 10",
+      "event_link": "https://tivolichattanooga.com/venue-event/ad55dc41-f5ce-4f72-af13-8116853825b3",
+      "event_time": "8:00 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Bored Teachers: The Struggle is Real! Comedy Tour",
+      "event_date": "March 13",
+      "event_link": "https://tivolichattanooga.com/venue-event/980294c1-c882-431e-815e-50f240836190",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Maria Bamford",
+      "event_date": "March 21",
+      "event_link": "https://tivolichattanooga.com/venue-event/73c28860-3d68-4029-bb59-2bb1fdde2e55",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Hadestown (Touring)",
+      "event_date": "March 28",
+      "event_link": "https://tivolichattanooga.com/venue-event/5a7b1083-c67f-4e82-b201-089b73f632ca",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Gillian Welch & David Rawlings",
+      "event_date": "April 2",
+      "event_link": "https://tivolichattanooga.com/venue-event/2ef7854e-57d9-43ba-b8f4-2930d8d04a1a",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Asleep At the Wheel",
+      "event_date": "April 9",
+      "event_link": "https://tivolichattanooga.com/venue-event/310b3943-67bf-4a82-8889-b515bc7f6b8d",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Chattanooga Symphony presents Beethoven's 5th",
+      "event_date": "April 10",
+      "event_link": "https://tivolichattanooga.com/venue-event/a75be2f0-88bf-4983-8bcc-8ad9e17db7b6",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "Dweezil Zappa: The Rox(postroph)y Tour",
+      "event_date": "April 10",
+      "event_link": "https://tivolichattanooga.com/venue-event/3e2d2807-8683-4926-94d2-8d12eb953bac",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Broadway at the Memorial Auditorium: Hamilton",
+      "event_date": "April 22",
+      "event_link": "https://tivolichattanooga.com/venue-event/f3b0fff7-7565-4171-b0cc-2c4e1eb6baf4",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Jeff Dunham Artificial Intelligence",
+      "event_date": "May 7",
+      "event_link": "https://tivolichattanooga.com/venue-event/9b22a9b5-eb10-4206-9e4a-91c3bedb7b86",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "The Walker Theatre",
+      "event_artist": "The Psychology of a Murderer",
+      "event_date": "May 18",
+      "event_link": "https://tivolichattanooga.com/venue-event/f7c38e8d-ac65-444f-bd6d-9c559c778139",
+      "event_time": "7:30 PM"
+    },
+    {
+      "event_venue": "Soldiers and Sailors Memorial Auditorium",
+      "event_artist": "Les Miserables (Touring)",
+      "event_date": "July 22",
+      "event_link": "https://tivolichattanooga.com/venue-event/ddbd1126-8248-40bf-bf14-19429231be4c",
+      "event_time": "7:30 PM"
+    }
+  ]
+}
