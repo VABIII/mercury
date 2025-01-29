@@ -13,17 +13,33 @@ async def fetch_cavern_event_links():
     driver.get("https://www.thecaverns.com/shows")
 
     event_link_list = VenueEventLinkList()
+    events = EventsList()
 
     try:
         cavern_shows = driver.find_elements(by=By.CLASS_NAME, value="eventColl-item")
 
+        for show in cavern_shows:
+            link = show.find_element(By.CLASS_NAME, value="eventColl-eventInfo").find_element(By.TAG_NAME, "a").get_attribute("href")
+            img_src = show.find_element(By.CLASS_NAME, value="eventColl-img").find_element(By.TAG_NAME, "img").get_attribute("src")
+            artist = show.find_element(By.CLASS_NAME, value="eventColl-artistNames--primary").text
+            time = show.find_element(By.CLASS_NAME, value="eventColl-detail--doors").text
+            date = show.find_element(By.CLASS_NAME, value="eventColl-month").text + '/' + show.find_element(By.CLASS_NAME, value="eventColl-date").text
+
+            event = EventDto(
+                EventVenue="The Caverns",
+                EventLink=link,
+                EventImgSrc=img_src,
+                EventArtist=artist,
+            )
+
+            print(link)
+
+
+
     except Exception as e:
         print(f"Error Retrieving The Signal Links: {e}")
-    else:
-        
-    finally:
-        print(event_link_list.model_dump_json())
-        driver.close()
+
+
 
     return event_link_list
 
